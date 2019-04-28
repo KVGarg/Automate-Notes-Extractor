@@ -2,6 +2,8 @@
 
 We all end up with hell lot of _images to be deleted_ at the end of each semester. I've trained a CNN model to predict such images and extract them out of WhatsApp Images directory
 
+Images dataset can be found on [Google Drive](https://drive.google.com/open?id=10MU3-qnDnSXWe4uoirBKsgd_lr9oxpLQ)
+
 like this: 
 
 <img src="behind_the_scenes/image.jpeg" width="300px" height="500px" />
